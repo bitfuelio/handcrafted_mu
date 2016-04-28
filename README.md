@@ -1,5 +1,5 @@
 # Handcrafted in Mauritius
-We're a project aiming to showcase Mauritian startups that are building noteworthy digital products. 
+We're a project by [BitFuel](www.bitfuel.io) aiming to showcase Mauritian startups that are building noteworthy digital products. 
 
 # How to be included
 Edit the html file in the gh-pages branch and file a pull request. We will then privately contact you for answers to the following questions.
