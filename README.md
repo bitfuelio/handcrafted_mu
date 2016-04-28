@@ -2,7 +2,7 @@
 We're a project aiming to showcase Mauritian startups that are building noteworthy digital products. 
 
 # How to be included
-Submit a pull request, answering the following questions.
+Edit the html file in the gh-pages branch and file a pull request. We will then privately contact you for answers to the following questions.
 
 - What is your company name?
 - What is your company website?
